@@ -1,0 +1,3 @@
+# stateManagment
+
+typescript added code
