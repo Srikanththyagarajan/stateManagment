@@ -1,0 +1,15 @@
+{
+  "defaultState": [
+    { "value": "Pants", "id": 1, "packed": false },
+    { "value": "Jacket", "id": 2, "packed": false },
+    { "value": "iPhone Charger", "id": 3, "packed": false },
+    { "value": "MacBook", "id": 4, "packed": false },
+    { "value": "Sleeping Pills", "id": 5, "packed": true },
+    { "value": "Underwear", "id": 6, "packed": false },
+    { "value": "Hat", "id": 7, "packed": false },
+    { "value": "T-Shirts", "id": 8, "packed": false },
+    { "value": "Belt", "id": 9, "packed": false },
+    { "value": "Passport", "id": 10, "packed": true },
+    { "value": "Sandwich", "id": 11, "packed": true }
+  ]
+}
